@@ -1,5 +1,5 @@
 # PygameTetris
-The classic tetris game made in phython using the pygame library.
+The classic tetris game made in Python using the pygame library.
 
 The User can manipulate blocks in order to achieve a higher score.
 
